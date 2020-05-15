@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wd202.github.io</id>
-    <title>2020ZPJ</title>
-    <updated>2020-05-15T03:03:58.087Z</updated>
+    <title>WANG DONG靓仔我爱你</title>
+    <updated>2020-05-15T03:28:59.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wd202.github.io"/>
     <link rel="self" href="https://wd202.github.io/atom.xml"/>
-    <subtitle>图片分享中</subtitle>
+    <subtitle>WANGDONG个人专区</subtitle>
     <logo>https://wd202.github.io/images/avatar.png</logo>
     <icon>https://wd202.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 2020ZPJ</rights>
+    <rights>All rights reserved 2020, WANG DONG靓仔我爱你</rights>
     <entry>
-        <title type="html"><![CDATA[分享照片]]></title>
-        <id>https://wd202.github.io/post/fen-xiang-zhao-pian/</id>
-        <link href="https://wd202.github.io/post/fen-xiang-zhao-pian/">
+        <title type="html"><![CDATA[WANG DONG 帅照]]></title>
+        <id>https://wd202.github.io/post/wang-dong-shuai-zhao/</id>
+        <link href="https://wd202.github.io/post/wang-dong-shuai-zhao/">
         </link>
-        <updated>2020-05-15T02:56:24.000Z</updated>
-        <content type="html"><![CDATA[<p>666</p>
+        <updated>2020-05-15T03:27:56.000Z</updated>
+        <content type="html"><![CDATA[<p>想啥想呢，发个红包了再看</p>
 ]]></content>
     </entry>
     <entry>
