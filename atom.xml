@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wd202.github.io</id>
     <title>2020ZPJ</title>
-    <updated>2020-05-15T03:02:26.736Z</updated>
+    <updated>2020-05-15T03:03:58.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wd202.github.io"/>
     <link rel="self" href="https://wd202.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://wd202.github.io/post/fen-xiang-zhao-pian/">
         </link>
         <updated>2020-05-15T02:56:24.000Z</updated>
-        <content type="html"><![CDATA[<p>666<img src="https://wd202.github.io/post-images/1589511445445.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>666</p>
 ]]></content>
     </entry>
     <entry>
